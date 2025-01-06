@@ -11,16 +11,16 @@
   </url>
   
   <url>
-    <loc>https://lanaqq.github.io/lweb/tags/index.html</loc>
+    <loc>https://lanaqq.github.io/lweb/categories/index.html</loc>
     
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://lanaqq.github.io/lweb/categories/index.html</loc>
+    <loc>https://lanaqq.github.io/lweb/tags/index.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
@@ -56,5 +56,12 @@
 
   
 
+  
+  <url>
+    <loc>https://lanaqq.github.io/lweb/categories/1st1stccc/</loc>
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
